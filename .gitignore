@@ -1,0 +1,10 @@
+# C; Obj-C
+output
+*.d
+*.o
+*.ml
+
+# VS Code
+.vscode
+
+# Project Files
